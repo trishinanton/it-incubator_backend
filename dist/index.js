@@ -16,7 +16,7 @@ const videos = [
 ];
 app.use((0, cors_1.default)());
 app.get('/', (req, res) => {
-    res.send('Hello: World!');
+    res.send('Hello: incubator!!!!!22111111');
 });
 app.get('/videos', (req, res) => {
     res.send(videos);

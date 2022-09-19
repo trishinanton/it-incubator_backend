@@ -15,7 +15,7 @@ const videos = [
 app.use(cors())
 
 app.get('/', (req: Request, res: Response ) => {
-    res.send('Hello: World!')
+    res.send('Hello: incubator!!!!!22111111')
 })
 app.get('/videos', (req: Request, res: Response ) => {
     res.send(videos)
